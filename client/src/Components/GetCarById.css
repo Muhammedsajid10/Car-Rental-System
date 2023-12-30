@@ -1,0 +1,24 @@
+.getCarContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+.getCarImage img {
+    width: 100%;
+    max-width: 762px;
+    height: auto;
+    border-radius: 70px;
+    border: 1px solid white;
+}
+
+.getCarDetails {
+    flex-grow: 1;
+    margin-left: 20px
+}
+
+.getCarDetails,
+p {
+    text-align: justify;
+}

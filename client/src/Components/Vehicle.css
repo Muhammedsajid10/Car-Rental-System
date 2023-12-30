@@ -1,0 +1,20 @@
+.vehCont {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  font-family: monospace;
+}
+
+.card {
+  margin: 46px;
+}
+
+.img {
+  height: 160px;
+  object-fit: cover;
+}
+
+.head {
+  margin-top: 77px;
+  font-family: monospace;
+}
